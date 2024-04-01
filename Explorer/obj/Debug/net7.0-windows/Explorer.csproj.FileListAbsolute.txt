@@ -1,0 +1,16 @@
+C:\Dev\Explorer\Explorer\bin\Debug\net7.0-windows\Explorer.exe
+C:\Dev\Explorer\Explorer\bin\Debug\net7.0-windows\Explorer.deps.json
+C:\Dev\Explorer\Explorer\bin\Debug\net7.0-windows\Explorer.runtimeconfig.json
+C:\Dev\Explorer\Explorer\bin\Debug\net7.0-windows\Explorer.dll
+C:\Dev\Explorer\Explorer\bin\Debug\net7.0-windows\Explorer.pdb
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.Form1.resources
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.csproj.GenerateResource.cache
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.AssemblyInfoInputs.cache
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.AssemblyInfo.cs
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.csproj.CoreCompileInputs.cache
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.dll
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\refint\Explorer.dll
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.pdb
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\Explorer.genruntimeconfig.cache
+C:\Dev\Explorer\Explorer\obj\Debug\net7.0-windows\ref\Explorer.dll
